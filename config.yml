@@ -156,6 +156,8 @@ params:
   systems:
     - name: Port 3298
       category: SAPRouter
+    - name: Port 3299
+      category: SAPRouter
     - name: SC1
       category: SAP4School Services
   # What date format to use?
