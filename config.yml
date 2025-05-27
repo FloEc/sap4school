@@ -157,7 +157,7 @@ params:
     - name: Service Gateway
       category: Network
     - name: SAP4School
-      category: SAP Services
+      category: SAP4School Services
   # What date format to use?
   #
   # Hugo formatting docs:
@@ -239,7 +239,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  disableIncidentHistory: false
+  disableIncidentHistory: true
 
   # Disable dark mode
   #
