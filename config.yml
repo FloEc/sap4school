@@ -143,7 +143,7 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: Network
+    - name: SAPRouter
     - name: SAP4School Services
 
   # These are your systems. Change them to
@@ -154,9 +154,9 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Service Gateway
-      category: Network
-    - name: SAP4School
+    - name: Port 3298
+      category: SAPRouter
+    - name: SC1
       category: SAP4School Services
   # What date format to use?
   #
@@ -277,7 +277,8 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: If you are experiencing an issue not listed here, please contact the SAP UCC support desk. If the service desk is unavailable, contact us via mail support(at)ucc.tum.de.
+  description: Die hier gemeldeten Verfügbarkeiten beziehen sich auf das SAP4School System SC1 des SAP UCC Münchens und die zugehörigen SAPRouter-Dienste. Wenn Sie auf irgendwelche Probleme oder Störungen stoßen erreichen Sie werktags zwischen 8:00 Uhr und 18:00 Uhr den SAP4School Support unter https://sap4school-support.integrus.de/
+
 
   # Tabs on homepage
   # Uncomment to enable.
