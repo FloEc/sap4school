@@ -277,7 +277,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: If you are experiencing an issue not listed here, please contact the SAP UCC support desk. If the service desk is unavailable, contact us via mail support(at)ucc.tum.de.
 
   # Tabs on homepage
   # Uncomment to enable.
